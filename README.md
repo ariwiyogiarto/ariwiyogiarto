@@ -11,17 +11,11 @@ I´m ari,
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
    ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
  
-  
- 
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-
-
  
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
-  
- 
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+     ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
 
